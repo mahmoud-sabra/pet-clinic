@@ -5,18 +5,18 @@ This script automates the setup of a new user named `pet-clinic` and installs Ja
 ## Instructions
 
 1. **Download the Script:**
-   - Download the `setup_pet_clinic-with-tar.sh` script to your desired location.
+   - Download the `pet_clinic.sh` script to your desired location.
 
 2. **Make the Script Executable:**
    - Run the following command to make the script executable:
      ```bash
-     chmod +x setup_pet_clinic-with-tar.sh
+     chmod +x pet_clinic.sh
      ```
 
 3. **Run the Script:**
    - Execute the script using the following command:
      ```bash
-     ./setup_pet_clinic-with-tar.sh
+     ./pet_clinic.sh
      ```
 
 4. **Follow On-Screen Instructions:**
