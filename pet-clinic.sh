@@ -7,6 +7,7 @@ else
     # If not, create a new functional user called pet-clinic
     sudo useradd -m pet-clinic
     echo "User pet-clinic created successfully."
+    sudo passwd pet-clinic
 fi
 
 # Check if Java is installed
