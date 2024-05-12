@@ -22,6 +22,7 @@ This script automates the setup of a new user named `pet-clinic` and installs Ja
 4. **Follow On-Screen Instructions:**
    - The script will check if the `pet-clinic` user exists.
    - If the user doesn't exist, it will create a new user.
+   - You will be asked to enter password for a new user
    - It then checks if Java is installed for the `pet-clinic` user.
    - If Java is not installed, it will download and install Java in the user's home directory.
 
